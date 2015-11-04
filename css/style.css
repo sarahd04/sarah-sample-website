@@ -1,9 +1,9 @@
 body { 
-	background-color: black;
+	background-color: white;
 	font-family: Helvetica, Verdana, sans-serif;}
-	h1 {color: red}
-	h2 {color: white}
+	h1 {color: black}
+	h2 {color: black}
 	p {
-		color: white}
+		color: black}
 	
 
